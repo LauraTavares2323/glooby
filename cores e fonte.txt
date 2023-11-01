@@ -1,0 +1,16 @@
+Cores
+
+#2F5061 - azul escuro 
+#E57F84 - rosa escuro 
+#F4EAE6 - rosa claro
+
+Fonte
+
+link html -
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inria+Serif&display=swap" rel="stylesheet"> 
+
+link css - 
+font-family: 'Inria Serif', serif;
+
